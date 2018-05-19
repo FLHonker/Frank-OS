@@ -7,6 +7,10 @@
 
 * [README.md](./README.md): 就是您正在看的本文啦，这里是关于`Frank-OS`的概述和导读
 
-* [my_conf/](./my_conf): Frank的一些配置文件，有硬盘、软盘的img镜像和bochs的配置文件。 
+* [bochs常用调试命令.md](./bochs常用调试命令.md):关于bochs工具的调试命令提示
+
+* [LISENSE](./LISENSE):你需要遵守的`GNU GPL3.0`协议许可
+
+* [my_conf/](./my_conf): Frank的一些配置文件，有硬盘、软盘的img镜像和bochs的配置文件。
 
 * [MBR/](./MBR):Frank编写的各个版本的MBR引导文件（汇编源码和二进制文件）。
